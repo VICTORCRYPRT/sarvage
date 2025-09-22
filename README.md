@@ -1,6 +1,6 @@
 # Hey, I'm Victor Raphael
 
-## Web3 Builder | BD & Marketing Strategist
+## Web3 Builder | Fundraising Specialist
 
 Welcome to my GitHub — the buildspace for everything I'm working on, collaborating with, or growing in Web3.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub — the buildspace for everything I'm working on, collabora
 
 ### What I Do
 
-- ** Fundraising:**  
+-  Fundraising:  
   I help crypto startups raise capital, structure investor narratives, and connect with top-tier VCs.
 
 
